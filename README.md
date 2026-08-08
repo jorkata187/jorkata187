@@ -11,12 +11,8 @@ JavaScript, React and TypeScript.
 
 ## 🛠️ Tech Stack
 
-- JavaScript
-- TypeScript
-- React
-- HTML5
-- CSS3
-- Node.js
+- JavaScript  - TypeScript  - React
+- HTML5  - CSS3  - Node.js
 - REST APIs
 
 ## 🚀 Featured Projects
@@ -29,12 +25,6 @@ A web application built with JavaScript and backend technologies.
 
 ### JS Single Page App
 A single-page application demonstrating modern JavaScript development.
-
-## 📫 Contact
-
-- GitHub: https://github.com/jorkata187
-- LinkedIn:
-- Email: georgeuk26@gmail.com
 
 ## 🎓 Certificates
 
@@ -50,3 +40,10 @@ A single-page application demonstrating modern JavaScript development.
 
 [HTML & CSS](https://softuni.bg/Certificates/Details/262756/48bfef77) &nbsp;&nbsp;·&nbsp;&nbsp;
 [PostgreSQL](https://softuni.bg/Certificates/Details/263036/c169c0e8)
+
+## 📫 Contact
+
+- GitHub: https://github.com/jorkata187
+- LinkedIn:
+- Email: georgeuk26@gmail.com
+
