@@ -36,15 +36,17 @@ A single-page application demonstrating modern JavaScript development.
 - LinkedIn:
 - Email: georgeuk26@gmail.com
 
-- ## 🎓 Certificates
+## 🎓 Certificates
 
 **Software University (SoftUni)**
 
-[Programming Basics](https://softuni.bg/Certificates/Details/171304/8da8e3ab) ·
-[Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/194280/aa5b99e8) ·
-[JS Advanced](https://softuni.bg/Certificates/Details/217736/c1a7d345) ·
-[JS Applications](https://softuni.bg/Certificates/Details/223602/b5339fa3) ·
-[ReactJS](https://softuni.bg/Certificates/Details/241487/67551ad4) ·
-[JS Back-End](https://softuni.bg/Certificates/Details/249179/b9eedb82) ·
-[HTML & CSS](https://softuni.bg/Certificates/Details/262756/48bfef77) ·
+[Programming Basics](https://softuni.bg/Certificates/Details/171304/8da8e3ab) &nbsp;&nbsp;·&nbsp;&nbsp;
+[Programming Fundamentals with JavaScript](https://softuni.bg/Certificates/Details/194280/aa5b99e8) &nbsp;&nbsp;·&nbsp;&nbsp;
+[JS Advanced](https://softuni.bg/Certificates/Details/217736/c1a7d345)
+
+[JS Applications](https://softuni.bg/Certificates/Details/223602/b5339fa3) &nbsp;&nbsp;·&nbsp;&nbsp;
+[ReactJS](https://softuni.bg/Certificates/Details/241487/67551ad4) &nbsp;&nbsp;·&nbsp;&nbsp;
+[JS Back-End](https://softuni.bg/Certificates/Details/249179/b9eedb82)
+
+[HTML & CSS](https://softuni.bg/Certificates/Details/262756/48bfef77) &nbsp;&nbsp;·&nbsp;&nbsp;
 [PostgreSQL](https://softuni.bg/Certificates/Details/263036/c169c0e8)
